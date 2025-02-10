@@ -1,6 +1,14 @@
-# Chatanooga Chatbot TTS/STT
-# @author M Currie 
-# @version 1.0
+"""
+Chatanooga 1.0 - AI Chatbot
+
+Chatanooga is an AI chatbot designed to interact with users using both speech recognition and text-to-speech capabilities. 
+It uses the DialoGPT language model for generating responses and is primarily built in Python 3.7.4. 
+This project provides a conversational interface that can be customized and extended based on specific requirements.
+
+Author: MGC https://github.com/mgc-00/ 
+Updated: 07/02/2025
+
+"""
 
 # Import necessary libraries
 import speech_recognition as sr
